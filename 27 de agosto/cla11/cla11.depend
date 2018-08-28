@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1535414796 source:d:\joeflores\cla11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pruducto.h"
+	"utn.h"
+
+1535410505 d:\joeflores\cla11\pruducto.h
+
+1535410763 d:\joeflores\cla11\utn.h
+
+1535415271 source:d:\joeflores\cla11\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pruducto.h"
+	"utn.h"
+
+1535410505 source:d:\joeflores\cla11\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pruducto.h"
+	"utn.h"
+
