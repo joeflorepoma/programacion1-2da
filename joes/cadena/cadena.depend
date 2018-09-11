@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536618800 source:d:\joes\cadena\main.c
+	<stdio.h>
+	<stdlib.h>
+
