@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1538501013 source:d:\nueva carpeta\projecto11\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+	"utn.h"
+
+1538495593 source:d:\nueva carpeta\projecto11\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1538501155 source:d:\nueva carpeta\projecto11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+	"utn.h"
+
+1538500339 d:\nueva carpeta\projecto11\funciones.h
+
+1538495594 d:\nueva carpeta\projecto11\utn.h
+

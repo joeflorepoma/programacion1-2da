@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1538507792 source:d:\nueva carpeta\projecto13y14m\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"libros.h"
+	"validaciones.h"
+	"autor.h"
+
+1538509657 d:\nueva carpeta\projecto13y14m\libros.h
+
+1538502006 d:\nueva carpeta\projecto13y14m\validaciones.h
+
+1538509958 source:d:\nueva carpeta\projecto13y14m\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"libros.h"
+	"validaciones.h"
+	"autor.h"
+
+1538509397 source:d:\nueva carpeta\projecto13y14m\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"libros.h"
+	"validaciones.h"
+	"autor.h"
+
+1538510633 d:\nueva carpeta\projecto13y14m\autor.h
+
+1538508802 source:d:\nueva carpeta\projecto13y14m\autor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"libros.h"
+	"validaciones.h"
+	"autor.h"
+

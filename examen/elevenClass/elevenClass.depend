@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1536492982 source:d:\nueva carpeta\elevenclass\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+	"utn.h"
+
+1536493579 d:\nueva carpeta\elevenclass\productos.h
+
+1536530052 d:\nueva carpeta\elevenclass\utn.h
+
+1536530197 source:d:\nueva carpeta\elevenclass\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"productos.h"
+
+1536530770 source:d:\nueva carpeta\elevenclass\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+	"utn.h"
+
