@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1538522365 source:d:\florespomajoseph1f\examen\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1538522365 d:\florespomajoseph1f\examen\validaciones.h
+
+1538526990 source:d:\florespomajoseph1f\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538521464 d:\florespomajoseph1f\examen\juegos.h
+
+1538526990 source:d:\florespomajoseph1f\examen\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538526990 source:d:\florespomajoseph1f\examen\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538526120 d:\florespomajoseph1f\examen\clientes.h
+
+1538527742 d:\florespomajoseph1f\examen\alquileres.h
+
